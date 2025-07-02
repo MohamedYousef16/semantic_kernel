@@ -1,0 +1,37 @@
+# FastAPI and Web Framework
+fastapi
+uvicorn
+
+# Database and ORM
+sqlalchemy
+pymysql
+cryptography
+
+# Pydantic for data validation
+pydantic
+
+# File handling and async I/O
+aiofiles
+
+# Document processing
+langchain-community
+pypdf2
+python-multipart
+unstructured
+
+# Text processing
+langchain
+
+# Semantic Kernel and AI
+semantic-kernel
+
+# HuggingFace integration
+transformers
+torch
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Utility libraries
+python-dateutil
